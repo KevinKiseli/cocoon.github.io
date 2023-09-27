@@ -1,1 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+    box-sizing: border-box;
+}
+
+.header{
+    height: 100vh;
+    width: 100%;
+    padding: 0%;
+    background: crimson;
+    position: relative;
+}
+
 
